@@ -1,0 +1,71 @@
+body {
+    background-image: url("img/pexels-lukas-616401.jpg");
+    background-size: 100%;
+}
+
+h1 {
+    
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    
+
+}
+
+.container{
+    position: relative;
+    background-color: antiquewhite;
+    border: solid 3px black;
+    border-radius: 3px;
+    padding: 5px;
+    height: 45px;
+    align-content: center;
+    
+}
+
+#newtask input{
+    width: 80%;
+    height: 40px;
+    padding: 5px;
+    color: #111111;
+    font-size: 25px;
+    position: relative;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace
+    font-size: 15px;
+
+
+}
+
+
+button {
+
+    
+    position: relative;
+    font-weight: 500;
+    font-size: 25px;
+    background-color: #679167;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    outline: none;
+    width: 15%;
+    height: 35px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    float: right;
+    padding: 5px;
+}
+
+button:hover {
+    background-color: aquamarine;
+}
+
+
+ul {
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+    
+    
+}
